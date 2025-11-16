@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mosa Hasn</h1>
-<h3 align="center">A passionate BackEnd (asp.net core) developer from Egypt</h3>
+<h3 align="center">A passionate developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosageneral&label=Profile%20views&color=0e75b6&style=flat" alt="mosageneral" /> </p>
 
